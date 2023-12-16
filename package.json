@@ -5,6 +5,9 @@
   "description": "Syntax Highlighting for Svelte using highlight.js",
   "author": "Eric Liu (https://github.com/metonym)",
   "type": "module",
+  "files": [
+    "package"
+  ],
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
