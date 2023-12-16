@@ -6,7 +6,7 @@
   "author": "Eric Liu (https://github.com/metonym)",
   "type": "module",
   "files": [
-    "package"
+    "package/**/*"
   ],
   "scripts": {
     "dev": "astro dev",
